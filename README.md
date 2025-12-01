@@ -1,1 +1,3 @@
 This is my working repository for the [Advent of Code 2025](https://adventofcode.com/) event lasting from December 1 to December 12. This will also contain my work in previous years, which I am going to do as practice. I hope to start easy by doing all the "easy mode" problems in Python, and if I have time I will do the harder versions in other languages. However, I will not be using any assistance from artificial intelligence whatsoever.
+
+I have just been informed that it is a violation of copyright to include inputs? I removed the input file for Day 1. They should really mention the license for inputs in the rules so my friends and I don't make this mistake.
